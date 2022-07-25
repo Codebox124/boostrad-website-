@@ -1,0 +1,52 @@
+.header-bg{
+    background: linear-gradient(rgb(0 , 0 , 0 , 0.7) , rgb(0 , 0 , 0 , 0.7)) , url('/asset/soybeanplantation.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.row-img{
+    background-image: url("/asset/soybeanplantation.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.second-bg{
+    background: linear-gradient(rgb(0 , 0 , 0 , 0.7) , rgb(0 , 0 , 0 , 0.7)) , url('/asset/02.jpg');
+    color: white;
+}
+.first-img{
+    background: linear-gradient(rgb(0 , 0 , 0 , 0.7) , rgb(0 , 0 , 0 , 0.7)) , url('/asset/01.jpg');
+    color: white;
+
+}
+.third-img{
+    background: linear-gradient(rgb(0 , 0 , 0 , 0.7) , rgb(0 , 0 , 0 , 0.7)) , url('/asset/03.jpg');
+    color: white;
+}
+.row button{
+    width: 100%;
+    border:none;
+}
+.thrid-section-container{
+    background-color: #f4f4f4;
+}
+.but{
+    background-color: rgb(121, 216, 121);
+    padding: 10px 20px !important;
+    width: 200px !important;
+    color: white;
+}
+.but:hover{
+    background-color: rgb(17, 16, 16);
+    color: white;
+    transition: 0.5;
+}
+
+.forth{
+    background: linear-gradient(rgb(0 , 0 , 0 , 0.7) , rgb(0 , 0 , 0 , 0.7)) , url('/asset/06.jpg');
+    color: white;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
